@@ -25,10 +25,27 @@ To create a landscape in Unreal Engine, apply a custom landscape material, and a
   In the Foliage Panel, click the + icon to add Static Meshes (e.g., trees, grass, bushes).
   Adjust settings like Density, Scale, and Randomness.
   Use the brush tool to paint foliage onto the landscape.
+
+
+
+
+  
   
   
 # OUTPUT :
+
+
+
+
+
 <img width="1127" height="612" alt="image" src="https://github.com/user-attachments/assets/514bb0c2-7cbe-4ebf-b60c-4a7f3a6a692d" />
+
+
+
+
+
+
+
 
 <img width="1138" height="623" alt="image" src="https://github.com/user-attachments/assets/2981c9a6-3675-40d3-92a2-53528f1570e8" />
 
