@@ -1,8 +1,6 @@
 # GAME_PROGRAM-EX--8
 # LANDSCAPE CREATION AND FOLIAGE IN UNREAL ENGINE
 
-# NAME : HALIMA HARISHA A
-# REGISTER NO : 212224040094
 # AIM :
 To create a landscape in Unreal Engine, apply a custom landscape material, and add foliage for realistic environment generation.
 # PROCEDURE :
